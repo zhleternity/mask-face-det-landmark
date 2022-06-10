@@ -90,4 +90,4 @@ bboxes, kpss = self.det_model.detect(img,
                                              max_num=max_num,
                                              metric='default')
 
-# print(bboxes, kpss)
+print(bboxes, kpss)
