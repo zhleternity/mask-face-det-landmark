@@ -61,6 +61,11 @@ onnx-runtime等
 ### 运行
 
  python image_infer.py
+ 
+ 
+### 结果可视化
+![可视化](https://github.com/zhleternity/mask-face-det-landmark/blob/main/output/t2.jpg)
+![可视化](https://github.com/zhleternity/mask-face-det-landmark/blob/main/output/test_00000006.jpg)
 
 ## 替换模型
 
